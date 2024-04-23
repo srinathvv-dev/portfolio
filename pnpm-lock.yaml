@@ -21,8 +21,8 @@ dependencies:
     specifier: ^13.5.4
     version: 13.5.4
   '@upstash/redis':
-    specifier: ^1.23.3
-    version: 1.23.3
+    specifier: ^1.30.0
+    version: 1.30.0
   contentlayer:
     specifier: ^0.3.4
     version: 0.3.4(esbuild@0.19.4)(markdown-wasm@1.2.0)
