@@ -6,16 +6,15 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "Srinath | Portfolio",
+    template: "%s | Srinath",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Multidisciplinary designer who works on solving real world Design Problems.",
   openGraph: {
-    title: "chronark.com",
-    description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+    title: "Srinath",
+    description:"Multidisciplinary designer who works on solving real world Design Problems.",
+    url: "https://srinathdesign.com",
+    siteName: "srinathdesign.com",
     images: [
       {
         url: "https://chronark.com/og.png",
@@ -38,11 +37,11 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "Srinath",
     card: "summary_large_image",
   },
   icons: {
-    shortcut: "/favicon.png",
+    shortcut: "/logo.png",
   },
 };
 const inter = Inter({
