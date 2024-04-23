@@ -14,6 +14,9 @@ overrides:
   '@opentelemetry/semantic-conventions': 1.13.0
 
 dependencies:
+  '@upstash/redis':
+    version: 1.30.0
+    resolved: 'https://registry.npmjs.org/@upstash/redis/-/redis-1.30.0.tgz'
   '@next/font':
     specifier: ^13.5.4
     version: 13.5.4
