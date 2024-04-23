@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     siteName: "srinathdesign.com",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "",
         width: 1920,
         height: 1080,
       },
