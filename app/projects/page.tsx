@@ -22,7 +22,7 @@ export default async function ProjectsPage() {
 
   const featured = allProjects.find((project) => project.slug === "1")!;
   const top2 = allProjects.find((project) => project.slug === "2")!;
-  const top3 = allProjects.find((project) => project.slug === "3_1")!;
+  const top3 = allProjects.find((project) => project.slug === "3")!;
   const sorted = allProjects
     .filter((p) => p.published)
     .filter(
